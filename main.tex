@@ -1,8 +1,9 @@
 \documentclass[11pt,a4paper]{article}
 \usepackage{standalone}
 \usepackage[english,ngerman]{babel}
+\usepackage{blindtext}
 \usepackage{datetime}
-\input{Standardinformationen/Details}
+\input{global/Details}
 \usepackage{fontspec}                   % Fontwahl auf Latin Modern Roman
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
@@ -119,8 +120,8 @@ linktoc=all
 \clearpage                  % Ende Inhaltsverzeichnis
 \pagenumbering{arabic}
 
-\input{Inhalt}
+\input{content}
 
-\input{Standardinformationen/Unterschriften}
+\input{global/Unterschriften}
 
 \end{document}

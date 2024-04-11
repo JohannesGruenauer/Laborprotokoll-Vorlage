@@ -1,6 +1,6 @@
 Dieses Projekt ist für die Studenten des FH Joanneum im Studiengang ECE vorgesehen.
 
-Titel, Autoren, Datum und Unterschriften müssen im Ordner Standardinformationen angepasst werden, können dann aber immer wieder abgerufen werden.
+Titel, Autoren, Datum und Unterschriften müssen im Ordner global angepasst werden, können dann aber immer wieder abgerufen werden.
 
 Für Code-Darstellung wird "minted" verwendet.
 
