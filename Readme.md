@@ -4,7 +4,7 @@ Titel, Autoren, Datum und Unterschriften müssen im Ordner Standardinformationen
 
 Für Code-Darstellung wird "minted" verwendet.
 
-MatLab-Livescripts müssen nach LaTex exportiert werden und ins Projekt geladen werden. Sie können dann mit \input{} oder \include{} verwendet werden.
+MatLab-Livescripts müssen nach LaTex exportiert werden und ins Projekt geladen werden. Sie können dann mit `\input{}` oder `\include{}` verwendet werden.
 
 Verbesserungsvorschläge gerne an johannes.gruenauer@edu.fh-joanneum.at. Im Betreff "Laborprotokoll Vorlage" inkludieren.
 Ich werde die Vorschläge anschauen und sehen was sich machen lässt.
