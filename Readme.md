@@ -13,3 +13,5 @@ Ich werde die Vorschläge anschauen und sehen was sich machen lässt.
 Falls Änderungen vorgeschlagen werden und es sich primär um Geschmacksfragen handelt, wird eine Umfrage durchgeführt was von der Mehrheit gewünscht ist.
 
 https://github.com/JohannesGruenauer/Laborprotokoll-Vorlage.git
+
+https://www.overleaf.com/read/mpxjynwkhcdw#d48c5d
