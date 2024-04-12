@@ -1,9 +1,12 @@
 \documentclass[11pt,a4paper]{article}
 \usepackage{standalone}
-\usepackage[english,ngerman]{babel}
+\usepackage{xstring}
+\input{global/language}
+\usepackage[\lang]{babel}
 \usepackage{blindtext}
-\usepackage{datetime}
-\input{global/Details}
+\usepackage[ddmmyyyy]{datetime}
+\renewcommand{\dateseparator}{.}
+\input{global/details}
 \usepackage{fontspec}                   % Fontwahl auf Latin Modern Roman
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
@@ -122,6 +125,6 @@ linktoc=all
 
 \input{content}
 
-\input{global/Unterschriften}
+\input{global/signatures}
 
 \end{document}
