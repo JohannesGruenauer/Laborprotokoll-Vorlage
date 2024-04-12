@@ -11,3 +11,5 @@ MatLab-Livescripts müssen nach LaTex exportiert werden und ins Projekt geladen 
 Verbesserungsvorschläge gerne als issue anlegen.
 Ich werde die Vorschläge anschauen und sehen was sich machen lässt.
 Falls Änderungen vorgeschlagen werden und es sich primär um Geschmacksfragen handelt, wird eine Umfrage durchgeführt was von der Mehrheit gewünscht ist.
+
+https://github.com/JohannesGruenauer/Laborprotokoll-Vorlage.git
