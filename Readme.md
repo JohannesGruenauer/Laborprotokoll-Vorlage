@@ -2,7 +2,7 @@ Dieses Projekt ist für die Studenten des FH Joanneum im Studiengang ECE vorgese
 
 Die Vorlage ist für LuaLaTeX ausgelegt.
 
-Titel, Autoren, Datum und Unterschriften müssen im Ordner global angepasst werden, können dann aber immer wieder abgerufen werden.
+Sprache, Titel, Autoren, Datum und Unterschriften müssen im Ordner global angepasst werden, können dann aber immer wieder abgerufen werden.
 
 Für Code-Darstellung wird "minted" verwendet.
 
