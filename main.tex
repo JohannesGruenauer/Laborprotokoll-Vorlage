@@ -19,9 +19,6 @@
  top=30mm,
  bottom=40mm
  }
-\usepackage{floatrow}
-\floatplacement{figure}{!ht}
-\floatplacement{table}{!ht}
 \usepackage{subcaption}
 \DeclareCaptionFormat{custom}
 {%
@@ -52,6 +49,9 @@
 \usepackage{float}
 \floatstyle{plaintop}
 \restylefloat{table}
+\makeatletter
+\g@addto@macro\@floatboxreset\centering
+\makeatother
 \usepackage{amsmath}
 \usepackage{fancyvrb}
 \usepackage{fancyhdr}
@@ -114,6 +114,9 @@ linktoc=all
 }
 
 \begin{document}
+
+\floatplacement{figure}{H}
+\floatplacement{table}{H}
 
 \begin{titlepage}           % Anfang Titelblatt
 \titlepagecontent
